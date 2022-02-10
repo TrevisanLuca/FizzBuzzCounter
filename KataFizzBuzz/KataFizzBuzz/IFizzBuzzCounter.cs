@@ -5,7 +5,6 @@ namespace KataFizzBuzz
     {
         string Translate(int input);
         //string Translate2(int input);
-
         List<string> Counter(int input);
         List<string> CounterFromFile(string path);
     }

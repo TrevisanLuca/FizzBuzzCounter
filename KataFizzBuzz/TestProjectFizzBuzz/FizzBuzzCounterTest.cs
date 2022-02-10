@@ -26,7 +26,6 @@ namespace TestProjectFizzBuzz
 
         [Test]
         public void TestFizzBuzzCounter()
-
         {
             var expected = new List<string> { "1", "2", "Fizz" }; //continuous until your input number... o try to make a new test
             var actual = _sut.Counter(3);
