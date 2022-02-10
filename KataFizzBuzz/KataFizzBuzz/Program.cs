@@ -6,7 +6,12 @@ namespace KataFizzBuzz
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //IFizzBuzzCounter counter = new FizzBuzzCounter();
+            //var test = counter.Counter(15);
+            //foreach (string item in test)            
+            //    Console.WriteLine(item);
+
+            //Console.ReadKey();
         }
     }
 }
